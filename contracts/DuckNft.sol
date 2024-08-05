@@ -11,7 +11,7 @@ contract MyDuck is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     uint256 private _nextTokenId;
     uint256 MAX_SUPPLY = 100000;
     event productTransferEvent(uint _productId, address _newOwner);
-    event mintEvent(address to, string uri);
+    event mintEvent(address to, uint tokenId, string uri);
 
     constructor(
         address initialOwner
@@ -23,7 +23,7 @@ contract MyDuck is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
         _safeMint(to, tokenId);
         _setTokenURI(tokenId, uri);
 
-        emit mintEvent(to, uri);
+        emit mintEvent(to, tokenId, uri);
     }
 
     // The following functions are overrides required by Solidity.
