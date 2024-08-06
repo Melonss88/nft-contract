@@ -10,7 +10,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract MyDuck is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     uint256 private _nextTokenId;
     uint256 MAX_SUPPLY = 100000;
-    event productTransferEvent(uint _productId, address _newOwner);
+    // event productTransferEvent(uint _productId, address _newOwner);
     event mintEvent(address to, uint tokenId, string uri);
 
     constructor(
@@ -61,19 +61,20 @@ contract MyDuck is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     }
 
     //监听transfer的方法，已经能实现了。不过内部是有一个的，后期处理到用自带的就行
-    function testTransfer(uint _productId, address _to) public {
-        _safeTransfer(msg.sender, _to, _productId);
-        emit productTransferEvent(_productId, _to);
-    }
+    // function testTransfer(uint _productId, address _to) public {
+    //     _safeTransfer(msg.sender, _to, _productId);
+    //     emit productTransferEvent(_productId, _to);
+    // }
 
-    function walletOfOwner(
-        address owner
-    ) public view returns (uint256[] memory) {
-        uint256 ownerTokenCount = balanceOf(owner);
-        uint256[] memory tokenIds = new uint256[](ownerTokenCount);
-        for (uint256 i; i < ownerTokenCount; i++) {
-            tokenIds[i] = tokenOfOwnerByIndex(owner, i);
-        }
-        return tokenIds;
-    }
+    //此方法已经转到数据库做处理，暂时是不需要了
+    // function walletOfOwner(
+    //     address owner
+    // ) public view returns (uint256[] memory) {
+    //     uint256 ownerTokenCount = balanceOf(owner);
+    //     uint256[] memory tokenIds = new uint256[](ownerTokenCount);
+    //     for (uint256 i; i < ownerTokenCount; i++) {
+    //         tokenIds[i] = tokenOfOwnerByIndex(owner, i);
+    //     }
+    //     return tokenIds;
+    // }
 }
