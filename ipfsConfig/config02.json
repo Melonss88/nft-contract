@@ -1,0 +1,10 @@
+{
+    "tokenId":2,
+    "name": "duck",
+    "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmYHnL3bewoSguRxBBeCVTnnstE3ZEFzHL3Lk4V9h5S4f1/02.png",
+    "color":"yellow",
+    "gender":"male",
+    "rarity":"3",
+    "price":"0.0001",
+    "accessories":"sunglasses"
+}

@@ -10,7 +10,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract MyDuck is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     uint256 private _nextTokenId;
     uint256 MAX_SUPPLY = 100000;
-    // event productTransferEvent(uint _productId, address _newOwner);
+    event nftTransferEvent(address _from, address _to, uint _tokenId);
     event mintEvent(address to, uint tokenId, string uri);
 
     constructor(
@@ -60,11 +60,11 @@ contract MyDuck is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
         return super.supportsInterface(interfaceId);
     }
 
-    //监听transfer的方法，已经能实现了。不过内部是有一个的，后期处理到用自带的就行
-    // function testTransfer(uint _productId, address _to) public {
-    //     _safeTransfer(msg.sender, _to, _productId);
-    //     emit productTransferEvent(_productId, _to);
-    // }
+    //监听transfer的方法
+    function nftTransfer(address _from, address _to, uint _tokenId) public {
+        _safeTransfer(msg.sender, _to, _tokenId);
+        emit nftTransferEvent(_from, _to, _tokenId);
+    }
 
     //此方法已经转到数据库做处理，暂时是不需要了
     // function walletOfOwner(
