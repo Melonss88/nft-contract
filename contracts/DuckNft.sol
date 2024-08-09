@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract MyDuck is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     uint256 private _nextTokenId;
-    uint256 MAX_SUPPLY = 100000;
+    uint256 MAX_SUPPLY = 100;
     event nftTransferEvent(address _from, address _to, uint _tokenId);
     event mintEvent(address to, uint tokenId, string uri);
 
