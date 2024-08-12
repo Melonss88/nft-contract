@@ -1,0 +1,101 @@
+[
+    {
+        "name": "duck",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck00.png",
+        "color":"yellow",
+        "gender":"male",
+        "rarity":"1",
+        "price":"0.00005",
+        "accessories":"no"
+    },
+    {
+        "name": "duck",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck01.png",
+        "color":"golden",
+        "gender":"male",
+        "rarity":"3",
+        "price":"0.0001",
+        "accessories":"sunglasses"
+    },
+    {
+        "name": "duck",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck02.png",
+        "color":"yellow",
+        "gender":"male",
+        "rarity":"3",
+        "price":"0.0001",
+        "accessories":"sunglasses"
+    },
+    {
+        "name": "duck",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck03.png",
+        "color":"white",
+        "gender":"female",
+        "rarity":"3",
+        "price":"0.0001",
+        "accessories":"sunglasses"
+    },
+    {
+        "name": "duck",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck04.png",
+        "color":"green",
+        "gender":"female",
+        "rarity":"5",
+        "price":"0.001",
+        "accessories":"necklace"
+    },
+    {
+        "name": "duck",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
+        "color":"pink",
+        "gender":"female",
+        "rarity":"4",
+        "price":"0.0002",
+        "accessories":"no"
+    },
+    {
+        "name": "Sailor Moon",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
+        "color":"Yellow",
+        "gender":"female",
+        "rarity":"4",
+        "price":"0.0005",
+        "accessories":"no"
+    },
+    {
+        "name": "Sailor Mars",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
+        "color":"Red",
+        "gender":"female",
+        "rarity":"4",
+        "price":"0.0004",
+        "accessories":"no"
+    },
+    {
+        "name": "Sailor Jupiter",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
+        "color":"Green",
+        "gender":"female",
+        "rarity":"4",
+        "price":"0.0004",
+        "accessories":"no"
+    },
+    {
+        "name": "Sailor Venus",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
+        "color":"Orange",
+        "gender":"female",
+        "rarity":"3",
+        "price":"0.0003",
+        "accessories":"no"
+    },
+    {
+        "name": "Sailor Mercury",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
+        "color":"Blue",
+        "gender":"female",
+        "rarity":"3",
+        "price":"0.0003",
+        "accessories":"no"
+    }
+]
