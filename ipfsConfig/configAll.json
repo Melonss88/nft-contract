@@ -1,7 +1,8 @@
 [
     {
-        "name": "duck",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck00.png",
+        "tokenId":"0",
+        "name": "ducklon",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint00.png",
         "color":"yellow",
         "gender":"male",
         "rarity":"1",
@@ -9,8 +10,9 @@
         "accessories":"no"
     },
     {
-        "name": "duck",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck01.png",
+        "tokenId":"1",
+        "name": "ducklon",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint01.png",
         "color":"golden",
         "gender":"male",
         "rarity":"3",
@@ -18,8 +20,9 @@
         "accessories":"sunglasses"
     },
     {
-        "name": "duck",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck02.png",
+        "tokenId":"2",
+        "name": "ducklon",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint02.png",
         "color":"yellow",
         "gender":"male",
         "rarity":"3",
@@ -27,8 +30,9 @@
         "accessories":"sunglasses"
     },
     {
-        "name": "duck",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck03.png",
+        "tokenId":"3",
+        "name": "ducklon",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint03.png",
         "color":"white",
         "gender":"female",
         "rarity":"3",
@@ -36,8 +40,9 @@
         "accessories":"sunglasses"
     },
     {
-        "name": "duck",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck04.png",
+        "tokenId":"4",
+        "name": "ducklon",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint04.png",
         "color":"green",
         "gender":"female",
         "rarity":"5",
@@ -45,8 +50,9 @@
         "accessories":"necklace"
     },
     {
-        "name": "duck",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
+        "tokenId":"5",
+        "name": "ducklon",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint05.png",
         "color":"pink",
         "gender":"female",
         "rarity":"4",
@@ -54,45 +60,50 @@
         "accessories":"no"
     },
     {
-        "name": "Sailor Moon",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
-        "color":"Yellow",
+        "tokenId":"6",
+        "name": "sailor",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint06.png",
+        "color":"yellow",
         "gender":"female",
         "rarity":"4",
         "price":"0.0005",
         "accessories":"no"
     },
     {
-        "name": "Sailor Mars",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
-        "color":"Red",
+        "tokenId":"7",
+        "name": "sailor",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint07.png",
+        "color":"red",
         "gender":"female",
         "rarity":"4",
         "price":"0.0004",
         "accessories":"no"
     },
     {
-        "name": "Sailor Jupiter",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
-        "color":"Green",
+        "tokenId":"8",
+        "name": "sailor",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint08.png",
+        "color":"green",
         "gender":"female",
         "rarity":"4",
         "price":"0.0004",
         "accessories":"no"
     },
     {
-        "name": "Sailor Venus",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
-        "color":"Orange",
+        "tokenId":"9",
+        "name": "sailor",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint09.png",
+        "color":"orange",
         "gender":"female",
         "rarity":"3",
         "price":"0.0003",
         "accessories":"no"
     },
     {
-        "name": "Sailor Mercury",
-        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmVwmL6jy3KoduokcHtNdMrfEZ8dMHp1dBr4xgkmKUtfiz/duck05.png",
-        "color":"Blue",
+        "tokenId":"10",
+        "name": "sailor",
+        "imageURL": "https://harlequin-obliged-nightingale-746.mypinata.cloud/ipfs/QmZ4g2GSdEnEHni6xRNfbnFTxCmmSBGjYqjySa6ikcYw6S/mint10.png",
+        "color":"blue",
         "gender":"female",
         "rarity":"3",
         "price":"0.0003",
