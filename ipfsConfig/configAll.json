@@ -117,7 +117,7 @@
         "gender":"female",
         "rarity":"5",
         "price":"0.0005",
-        "accessories":"no"
+        "accessories":"bag"
     },
     {
         "tokenId":"12",
@@ -127,7 +127,7 @@
         "gender":"female",
         "rarity":"2",
         "price":"0.0002",
-        "accessories":"no"
+        "accessories":"bag"
     },
     {
         "tokenId":"13",
@@ -147,7 +147,7 @@
         "gender":"female",
         "rarity":"5",
         "price":"0.0005",
-        "accessories":"no"
+        "accessories":"glasses"
     },
     {
         "tokenId":"15",
@@ -167,7 +167,7 @@
         "gender":"female",
         "rarity":"4",
         "price":"0.0004",
-        "accessories":"no"
+        "accessories":"green onions"
     },
     {
         "tokenId":"17",
